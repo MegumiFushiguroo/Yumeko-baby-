@@ -16,4 +16,4 @@ def ul(_, message):
         i.edit(f'🇾ᴏᴜʀ🇹ᴇʟᴇɢʀᴀᴘʜ 👉 {url}')
 
 
-#off
+#nhi chaiyy
