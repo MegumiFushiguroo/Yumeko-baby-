@@ -35,7 +35,7 @@ YUMEKO MUSIC is a ✨ _special_ ✨ repository because its README.md (this file)
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MegumiFushiguroo/Yumeko-baby-"> <img src="https://graph.org/file/cf4dc71a01daef1a1577f.jpg" width="1220" height="538.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MegumiFushiguroo/Yumeko-baby-"> <img src="https://telegra.ph/file/9120d4d4a8bd0345371d3.jpg" width="1220" height="538.45"/></a></p>
 
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
