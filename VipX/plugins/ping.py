@@ -80,7 +80,7 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="OWNER", url=f"https://t.me/bitexalt",
+                text="OWNER", url=f"https://t.me/I_AM_OFFICIAL_KING",
             ),
             InlineKeyboardButton(
                 text="LEVI(DEV)", url=f"https://t.me/LeviAckerman1709",
