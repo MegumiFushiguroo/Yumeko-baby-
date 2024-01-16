@@ -28,14 +28,14 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002082771163"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001739122591"))
 
 # A name for your Music bot.
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "MUSIC")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "SNOOPDOGG")
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6264769753").split())
+    map(int, getenv("OWNER_ID", "1737646273").split())
 )  # Input type must be interger
 
 GROUP_USERNAME = getenv("GROUP_USERNAME")
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/YumekoUpdate")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Panther_community")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/Ahjin_sprt")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Ahjin_sprt")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -166,11 +166,11 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/e9ecaca566787c615d142.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org//file/4442f96e54562583f8e0a.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/e9ecaca566787c615d142.jpg",
+    "https://graph.org//file/4442f96e54562583f8e0a.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
@@ -185,7 +185,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/e9ecaca566787c615d142.jpg",
+    "https://graph.org//file/4442f96e54562583f8e0a.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
