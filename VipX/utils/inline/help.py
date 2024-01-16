@@ -19,10 +19,10 @@ def help_pannel(_, START: Union[bool, int] = None):
         ),
         InlineKeyboardButton(
             text="OWNER",
-            url=f"t.me/bitexalt",
+            url=f"t.me/I_AM_OFFICIAL_KING",
         ),
         InlineKeyboardButton(
-            text="𝙽𝚎𝚡𝚝 ➥", callback_data="help_callback hb13"
+            text="Nothing ➥", callback_data="help_callback hb13"
         ),
     ]
     mark = second if START else first
